@@ -10,7 +10,7 @@ function setup() {
   createCanvas(700, 400);
 
   //Size of stroke
-  strokeWeight(7);
+  strokeWeight(8);
 
   //No stroke for shapes
   noStroke();
